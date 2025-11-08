@@ -43,6 +43,10 @@ Upon successful pipeline execution:
 •	✅ Two Delta tables are created:
 •	earthquake_silver
 •	earthquake_gold
+
+![image alt](https://github.com/nmacharla2510/Earthquake-Data-Analysis-MS-Fabric-/blob/main/pipeline%20sucesseded.png)
+
+1[imagealt](https://github.com/nmacharla2510/Earthquake-Data-Analysis-MS-Fabric-/blob/main/table_file%20content.png)
  
  
 ### 7. Power BI Visualization
