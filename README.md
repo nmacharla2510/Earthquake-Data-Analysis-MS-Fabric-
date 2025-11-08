@@ -32,8 +32,10 @@ The project follows the Medallion Architecture:
 •	Saves the enriched DataFrame as:
 {start_date}_earthquake_gold 
 Note: A separate environment was created for reverse_geocoder.
-###5. Pipeline Variables
+### 5. Pipeline Variables
 start_date = @formatDateTime(adddays(utcNow(), -1), 'yyyy-MM-dd') end_date = @formatDateTime(utcNow(), 'yyyy-MM-dd') 
+
+![image alt](https://github.com/nmacharla2510/Earthquake-Data-Analysis-MS-Fabric-/blob/main/pipeline_formula.png)
  
 ### 6. Output Summary
 Upon successful pipeline execution:
