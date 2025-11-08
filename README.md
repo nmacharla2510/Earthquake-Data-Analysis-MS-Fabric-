@@ -1,6 +1,6 @@
 # 🌍 Earthquake – Data Engineering Project
 ### 1. Project Overview
-This project was developed to explore data engineering and analytics pipelines using **Microsoft Fabric tools, including Data Factory, Data Engineering, and Power BI.
+This project was developed to explore data engineering and analytics pipelines using **Microsoft Fabric tools, including Data Factory, Data Engineering, and Power BI**.
 ### 2. Dataset Summary
 The data is sourced from the USGS Earthquake API, which provides global earthquake data.
 Sample API Query:
@@ -8,12 +8,12 @@ https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime={start
 
 The response is in GeoJSON format.
 ### 3. Tools and Technologies Used
--	Python
--	PySpark
--	Microsoft Fabric
--	Data Engineering
--	Data Factory
--	Power BI
+-	**Python**
+-	**PySpark**
+-	**Microsoft Fabric**
+-	**Data Engineering**
+-	**ata Factory**
+-	**Power BI**
 ### 4. Methodology
 The project follows the Medallion Architecture:
 
