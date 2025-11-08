@@ -51,5 +51,7 @@ Upon successful pipeline execution:
  
 ### 7. Power BI Visualization
 The Power BI dashboard was built using the Gold Layer output to visualize earthquake data by country and magnitude.
+
+![image alt](https://github.com/nmacharla2510/Earthquake-Data-Analysis-MS-Fabric-/blob/main/powerbi.png)
  
 
