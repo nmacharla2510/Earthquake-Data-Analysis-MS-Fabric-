@@ -16,6 +16,7 @@ The response is in GeoJSON format.
 •	Power BI
 ### 4. Methodology
 The project follows the Medallion Architecture:
+
 ![image alt](https://github.com/nmacharla2510/Earthquake-Data-Analysis-MS-Fabric-/blob/main/Medallion%20Architecture.png)
  
 #### 🟫 Bronze Layer
