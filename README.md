@@ -1,6 +1,6 @@
 # 🌍 Earthquake – Data Engineering Project
 ### 1. Project Overview
-This project was developed to explore data engineering and analytics pipelines using Microsoft Fabric tools, including Data Factory, Data Engineering, and Power BI.
+This project was developed to explore data engineering and analytics pipelines using **Microsoft Fabric tools, including Data Factory, Data Engineering, and Power BI.
 ### 2. Dataset Summary
 The data is sourced from the USGS Earthquake API, which provides global earthquake data.
 Sample API Query:
