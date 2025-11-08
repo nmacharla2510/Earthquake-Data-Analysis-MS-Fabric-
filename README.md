@@ -39,14 +39,14 @@ start_date = @formatDateTime(adddays(utcNow(), -1), 'yyyy-MM-dd') end_date = @fo
  
 ### 6. Output Summary
 Upon successful pipeline execution:
-•	✅ JSON file is saved to the Lakehouse under the Files folder.
-•	✅ Two Delta tables are created:
-•	earthquake_silver
-•	earthquake_gold
+- •	✅ JSON file is saved to the Lakehouse under the Files folder.
+- •	✅ Two Delta tables are created:
+- •	earthquake_silver
+- •	earthquake_gold
 
 ![image alt](https://github.com/nmacharla2510/Earthquake-Data-Analysis-MS-Fabric-/blob/main/pipeline%20sucesseded.png)
 
-1[imagealt](https://github.com/nmacharla2510/Earthquake-Data-Analysis-MS-Fabric-/blob/main/table_file%20content.png)
+1[image alt](https://github.com/nmacharla2510/Earthquake-Data-Analysis-MS-Fabric-/blob/main/table_file%20content.png)
  
  
 ### 7. Power BI Visualization
